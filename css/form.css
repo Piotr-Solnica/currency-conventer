@@ -43,6 +43,7 @@ border: 3px solid #a5582b;
 border-radius: 10px;
 display: inline-block;
 margin: 20 auto;
+cursor: pointer;
 }
 
 .form__button:hover {
