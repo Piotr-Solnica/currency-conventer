@@ -38,6 +38,7 @@
 
         resultElement.innerText = "N/A";
     }
+    
     const init = () => {
 
         formElement.addEventListener("submit", onFormSubmit)
